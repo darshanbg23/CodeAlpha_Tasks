@@ -7,23 +7,36 @@ Each project focuses on a different machine learning application and demonstrate
 
 ---
 
+# Projects Included
+
+The folder contains **three machine learning projects**, each organized in its own directory.
+
+```
+CodeAlpha_Tasks/
+
+├── Handwritten_Character_Recognition/
+├── Credit_Score_Prediction/
+└── Disease_Prediction_System/
+```
+
+---
+
 # Project Descriptions
 
-## 1. Credit Score Prediction
+## 1. Handwritten Character Recognition
 
-A machine learning model that predicts a user's **credit score category** based on financial and behavioral attributes.
+A deep learning based system that recognizes **handwritten digits and alphabet characters** from images.
+
+The project trains **Convolutional Neural Networks (CNNs)** using two popular datasets:
+
+* MNIST (digits)
+* EMNIST (letters)
 
 **Key Features**
 
-* Data preprocessing and feature engineering
-* Training multiple machine learning models
-* Model evaluation and accuracy comparison
-* Prediction system for new user financial data
-
-**Machine Learning Concepts Used**
-
-* Classification models
-* Feature scaling
-* Model evaluation metrics
+* Image preprocessing pipeline
+* CNN based deep learning model
+* Digit and character prediction from input images
+* Command line interface for training and prediction
 
 ---
