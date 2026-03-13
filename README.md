@@ -14,8 +14,8 @@ The folder contains **three machine learning projects**, each organized in its o
 ```
 CodeAlpha_Tasks/
 
-├── Handwritten_Character_Recognition/
 ├── Credit_Score_Prediction/
+├── Handwritten_Character_Recognition/
 └── Disease_Prediction_System/
 ```
 
@@ -23,7 +23,7 @@ CodeAlpha_Tasks/
 
 # Project Descriptions
 
-## 1. Handwritten Character Recognition
+## 1. [Handwritten Character Recognition](https://github.com/darshanbg23/CodeAlpha_Tasks/tree/main/CodeAlpha_HandwrittenCharacterRecognition)
 
 A deep learning based system that recognizes **handwritten digits and alphabet characters** from images.
 
