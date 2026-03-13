@@ -1,0 +1,4 @@
+checking_account,duration_months,credit_history,purpose,credit_amount,savings_account,employment_since,installment_rate,personal_status,other_debtors,residence_since,property,age,other_installments,housing,existing_credits,job,dependents,telephone,foreign_worker
+A12,24,A32,A43,3000,A61,A73,4,A93,A101,2,A121,35,A143,A152,1,A173,1,A192,A201
+A11,36,A34,A40,5000,A62,A74,3,A92,A101,3,A122,45,A141,A153,2,A172,2,A191,A201
+A14,12,A30,A46,2500,A63,A71,2,A94,A103,1,A123,28,A142,A151,1,A174,1,A193,A202
