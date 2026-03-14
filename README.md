@@ -7,23 +7,28 @@ Each project focuses on a different machine learning application and demonstrate
 
 ---
 
-# Projects Included
+# Project Descriptions
 
-The folder contains **three machine learning projects**, each organized in its own directory.
+## 1. [Credit Score Prediction](https://github.com/darshanbg23/CodeAlpha_Tasks/tree/main/CodeAlpha_CreditScoringModel)
 
-```
-CodeAlpha_Tasks/
+A machine learning model that predicts a user's **credit score category** based on financial and behavioral attributes.
 
-├── Credit_Score_Prediction/
-├── Handwritten_Character_Recognition/
-└── Disease_Prediction_System/
-```
+**Key Features**
+
+* Data preprocessing and feature engineering
+* Training multiple machine learning models
+* Model evaluation and accuracy comparison
+* Prediction system for new user financial data
+
+**Machine Learning Concepts Used**
+
+* Classification models
+* Feature scaling
+* Model evaluation metrics
 
 ---
 
-# Project Descriptions
-
-## 1. [Handwritten Character Recognition](https://github.com/darshanbg23/CodeAlpha_Tasks/tree/main/CodeAlpha_HandwrittenCharacterRecognition)
+## 2. [Handwritten Character Recognition](https://github.com/darshanbg23/CodeAlpha_Tasks/tree/main/CodeAlpha_HandwrittenCharacterRecognition)
 
 A deep learning based system that recognizes **handwritten digits and alphabet characters** from images.
 
