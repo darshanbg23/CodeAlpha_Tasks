@@ -7,7 +7,7 @@ Each project focuses on a different machine learning application and demonstrate
 
 ---
 
-# Projects Included
+## Projects Included
 
 The folder contains **three machine learning projects**, each organized in its own directory.
 
@@ -22,9 +22,9 @@ CodeAlpha_Tasks/
 
 ---
 
-# Project Descriptions
+## Project Descriptions
 
-## 1. [Credit Score Prediction](https://github.com/darshanbg23/CodeAlpha_Tasks/tree/main/CodeAlpha_CreditScoringModel)
+### 1. [Credit Score Prediction](https://github.com/darshanbg23/CodeAlpha_Tasks/tree/main/CodeAlpha_CreditScoringModel)
 
 A machine learning model that predicts a user's **credit score category** based on financial and behavioral attributes.
 
@@ -43,7 +43,7 @@ A machine learning model that predicts a user's **credit score category** based 
 
 ---
 
-## 2. [Disease Prediction System](https://github.com/darshanbg23/CodeAlpha_Tasks/tree/main/CodeAlpha_DiseasePrediction)
+### 2. [Disease Prediction System](https://github.com/darshanbg23/CodeAlpha_Tasks/tree/main/CodeAlpha_DiseasePrediction)
 
 A machine learning system that predicts possible diseases based on **patient symptoms**.
 
@@ -62,7 +62,7 @@ A machine learning system that predicts possible diseases based on **patient sym
 
 ---
 
-## 3. [Handwritten Character Recognition](https://github.com/darshanbg23/CodeAlpha_Tasks/tree/main/CodeAlpha_HandwrittenCharacterRecognition)
+### 3. [Handwritten Character Recognition](https://github.com/darshanbg23/CodeAlpha_Tasks/tree/main/CodeAlpha_HandwrittenCharacterRecognition)
 
 A deep learning based system that recognizes **handwritten digits and alphabet characters** from images.
 
@@ -80,7 +80,7 @@ The project trains **Convolutional Neural Networks (CNNs)** using two popular da
 
 ---
 
-# Technologies Used
+## Technologies Used
 
 Across the internship projects, the following technologies and tools were used:
 
@@ -96,7 +96,7 @@ Across the internship projects, the following technologies and tools were used:
 
 ---
 
-# Skills Demonstrated
+## Skills Demonstrated
 
 These projects demonstrate practical experience with:
 
@@ -109,7 +109,7 @@ These projects demonstrate practical experience with:
 
 ---
 
-# About the Internship
+## About the Internship
 
 The **CodeAlpha Machine Learning Internship** provided hands on experience in implementing machine learning solutions and understanding the full lifecycle of ML projects, from **data preparation to model deployment and evaluation**.
 
